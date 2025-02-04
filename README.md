@@ -1,7 +1,9 @@
-# Kernelemente-der-psychiatrischen-Patientenakte-in-FHIR
+# Core-elements-of-psychiatric-patient-records-in-FHIR
 
-Lassen sich Kernelemente einer psychiatrischen Patientenakte identifizieren und eingränzen, und vollumfänglich international standardisiert kodiert, herstellerunabhängig in der zentralen IT-Infrastruktur der Charité gespeichert und automatisch kontextualisiert auswerten? 
+Is it possible to identify and integrate core elements of a psychiatric patient record, and can they be fully coded in an internationally standardized way, stored in the central IT infrastructure of the Charité independently of the manufacturer and automatically contextualized for evaluation? 
 
-Zum Ziel hat die Standardisierung in FHIR eine interoperable Datenverarbeitung von von Gesundheitsinformationen. Dazu gehören biologische Messdaten, aber häufiger noch die Erfassung Gesundheitinformationen mit Fragebögen.
+The aim of standardization in FHIR is interoperable data processing of health information. This includes biological measurement data, but more frequently the collection of health information using questionnaires.
 
-Die Daten, welche für die Bearbeitung der Forschungsfrage relevant sind, werden hier zusammengestellt.
+The data that is relevant for processing the research question is compiled here.
+
+Translated with DeepL.com (free version)
