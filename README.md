@@ -1,4 +1,4 @@
-# Core-elements-of-psychiatric-patient-records-in-FHIR
+# Core elements of a German psychiatric patient record in FHIR
 
 Is it possible to identify and integrate core elements of a psychiatric patient record, and can they be fully coded in an internationally standardized way, stored in the central IT infrastructure of the Charité independently of the manufacturer and automatically contextualized for evaluation? 
 
